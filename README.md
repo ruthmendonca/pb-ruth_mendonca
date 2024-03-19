@@ -1,4 +1,4 @@
-﻿# Programa de Bolsas da Compass.UOL ![Logo Compass](imgs/compass.png)
+﻿# Programa de Bolsas da Compass.UOL ![Logo Compass](imgs/logo.png)
 
 ## Apresentação
 
