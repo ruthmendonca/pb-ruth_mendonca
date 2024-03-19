@@ -3,8 +3,9 @@
 ## Apresentação
 
 Olá! Meu nome é  Ruth Mendonça :smiley:
-<img src="imgs/foto.jpg" alt="Foto Ruth Mendonça" width="150px" height="150px"> - Sou natural de São Paulo e atualmente residente da cidade de Registro, no interior de São Paulo. 
- - Atuo como estudante na Faculdade de Tecnologia de Registro (Fatec), onde estou cursando Desenvolvimento de Software Multiplataforma, atualmente no 2º semestre.
+<img src="imgs/foto.jpg" alt="Foto Ruth Mendonça" width="250px" height="250px"> 
+ > Sou natural de **São Paulo** e atualmente residente da cidade de **Registro**, no interior de São Paulo. 
+ > Atuo como estudante na **Faculdade de Tecnologia de Registro (Fatec)**, onde estou cursando **Desenvolvimento de Software Multiplataforma**, atualmente no 2º semestre.
 
 ### Experiência Acadêmica :mortar_board: 
 
@@ -21,15 +22,15 @@ Sou uma pessoa naturalmente espontânea e alegre, buscando sempre encarar os des
 
 ## Aprendizados durante o PB :computer:
 
-### Linux Ubuntu
+### 1-Linux Ubuntu
 
 - **Comandos Básicos**: Aprendi com comandos básicos como `cd`, `ls`, `mkdir` e `rm`, e continuo praticando para aprimorar minha eficiência.
 - **Avançado**: Estou explorando tópicos avançados, como scripting, gerenciamento avançado de arquivos e permissões.
 
-### Markdown
+### 2-Markdown
 
 Estou aprendendo Markdown para criar documentação clara e bem formatada para meus projetos. Além dos conceitos básicos como texto em negrito e itálico, listas e links, estou explorando recursos avançados como blocos de código e citações.
 
-### Versionamento no Git
+### 3-Versionamento no Git
 Aprendi e consegui me aprofundar no Git para melhorar meu controle de versão de projetos. Estou praticando a inicialização de repositórios, criação e gestão de branches, resolução de conflitos e colaboração em projetos colaborativos utilizando forks e pull requests.
 
