@@ -3,7 +3,7 @@
 ## Apresentação
 
 Olá! Meu nome é  Ruth Mendonça
-![Foto Ruth Mendonça](imgs/foto.jpg)
+<img src="imgs/foto.jpg" alt="Foto Ruth Mendonça" width="150px" height="150px" border-radius="5">
  - Sou natural de São Paulo e atualmente residente da cidade de Registro, no interior de São Paulo. 
  - Atuo como estudante na Faculdade de Tecnologia de Registro (Fatec), onde estou cursando Desenvolvimento de Software Multiplataforma, atualmente no 2º semestre.
 
