@@ -1,4 +1,4 @@
-﻿# Programa de Bolsas da Compass.UOL <img src="https://exemplo.com/logo.png" alt="Logo da Compass" width="50px" height="50px">
+﻿# Programa de Bolsas da Compass.UOL <img src="imgs/logo.png" alt="Logo da Compass" width="50px" height="50px">
 
 ## Apresentação
 
