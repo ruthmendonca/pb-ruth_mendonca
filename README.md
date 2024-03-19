@@ -13,7 +13,7 @@ Durante minha jornada acadêmica, tive a oportunidade de mergulhar em projetos d
 
 ### Hobbies e Interesses :art:
 
-Fora do mundo acadêmico e profissional, encontro meu refúgio em atividades criativas. Tenho uma paixão por desenhar e pintar, onde posso expressar minha imaginação e explorar novas técnicas artísticas, e me sentir eu. Além disso, em meu tempo livre gosto de ler livros de ficção científica.
+Fora do mundo acadêmico e profissional, encontro meu refúgio em atividades criativas. Tenho uma paixão por desenhar e pintar, onde posso expressar minha imaginação e explorar novas técnicas artísticas, de modo que eu me "sinto eu". Além disso, em meu tempo livre gosto de ler livros de ficção científica, e brincar com minhas irmãs mais novas.
 
 ### Personalidade :relaxed:
 
