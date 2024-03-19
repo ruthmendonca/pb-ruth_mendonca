@@ -2,7 +2,10 @@
 
 ## Apresentação
 
-Olá! Meu nome é  Ruth Mendonça, sou natural de São Paulo e atualmente residente da cidade de Registro, no interior de São Paulo. Atuo como estudante na Faculdade de Tecnologia de Registro (Fatec), onde estou cursando Desenvolvimento de Software Multiplataforma, atualmente no 2º semestre.
+Olá! Meu nome é  Ruth Mendonça
+![Foto Ruth Mendonça](imgs/foto.jpg)
+ **Sou natural de São Paulo e atualmente residente da cidade de Registro, no interior de São Paulo. 
+ **Atuo como estudante na Faculdade de Tecnologia de Registro (Fatec), onde estou cursando Desenvolvimento de Software Multiplataforma, atualmente no 2º semestre.
 
 ### Experiência Acadêmica
 
