@@ -2,8 +2,7 @@
 
 ## Apresentação
 
-Olá! Meu nome é  Ruth Mendonça :smiley:
-<img src="imgs/foto.jpg" alt="Foto Ruth Mendonça" width="250px" height="250px"> 
+ Olá! Meu nome é  **Ruth Mendonça** :smiley: <img src="imgs/foto.jpg" alt="Foto Ruth Mendonça" width="250px" height="250px" style="border-radius: 15px;"> 
  > Sou natural de **São Paulo** e atualmente residente da cidade de **Registro**, no interior de São Paulo. 
  > Atuo como estudante na **Faculdade de Tecnologia de Registro (Fatec)**, onde estou cursando **Desenvolvimento de Software Multiplataforma**, atualmente no 2º semestre.
 
