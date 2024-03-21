@@ -49,15 +49,15 @@
 
 ```
     
-    3. Passo:
-    > Após criar o script, conceda permissões de execução com 
+3. Passo:
+> Após criar o script, conceda permissões de execução com 
 ```    
     chmod +x processamento_de_vendas.sh`
 
 ```
     
-    4. Passo:
-    > Em seguida, para agendar a execução do script, você pode editar as tarefas cron usando o comando `crontab -e` e adicionar a seguinte linha para executar o script todos os dias de segunda a quinta às 15:27:
+4. Passo:
+> Em seguida, para agendar a execução do script, você pode editar as tarefas cron usando o comando `crontab -e` e adicionar a seguinte linha para executar o script todos os dias de segunda a quinta às 15:27:
 ```   
     27 15 * * 1-4 /caminho/para/o/processamento_de_vendas.sh
 
