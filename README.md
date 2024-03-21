@@ -36,4 +36,5 @@ Aprendi e consegui me aprofundar no Git para melhorar meu controle de versão de
 
 ## Sprints 
 
-1. ![Sprint 1](Sprint1/README.md)
+1. [Sprint 1](Sprint%201/README.md)
+
