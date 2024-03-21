@@ -62,5 +62,34 @@
     27 15 * * 1-4 /caminho/para/o/processamento_de_vendas.sh
 
 ```
+>Substitua /caminho/para/o/processamento_de_vendas.sh pelo caminho onde o script **processamento_de_vendas.sh** está localizado.
 
-        
+5. Passo: 
+> Quando houver pelo menos **três** relatórios gerados, você pode criar o script **consolidador_de_processamento_de_vendas.sh** para unir todos os relatórios gerados e gerar outro arquivo chamado **relatorio_final.txt**
+```   
+
+# Define o nome do arquivo final
+arquivo_final="ecommerce/vendas/backup/relatorio_final.txt"
+
+# Limpa o arquivo final se ele já existir
+> "$arquivo_final"
+
+# Loop para percorrer todos os relatórios gerados
+for relatorio in ecommerce/vendas/backup/relatorio*.txt; do
+    # Concatena o conteúdo do relatório ao arquivo final
+    cat "$relatorio" >> "$arquivo_final"
+    
+    # Adiciona uma quebra de linha entre os relatórios
+    echo -e "\n" >> "$arquivo_final"
+done
+
+```
+
+5. Passo:
+> Agora conceda permissões de execução: 
+
+```
+
+chmod +x consolidador_de_processamento_de_vendas.sh
+
+```
