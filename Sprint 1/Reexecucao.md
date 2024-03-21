@@ -7,7 +7,7 @@
         mv dados_de_vendas.csv ecommerce/~~~
 
 
- 2. Passo:
+2. Passo:
 * Após isso, vamos criar o script **processamendo_de_vendas.sh** 
 * Para realizar todas as tarefas desejadas, utiliza-se este script:
         
