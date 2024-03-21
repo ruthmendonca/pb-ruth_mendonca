@@ -19,11 +19,6 @@ Fora do mundo acadêmico e profissional, encontro meu refúgio em atividades cri
 
 Sou uma pessoa naturalmente espontânea e alegre, buscando sempre encarar os desafios da vida com determinação e persistência. Tenho facilidade em me adaptar a novos ambientes e situações, e considero a aprendizagem contínua como uma parte fundamental do meu crescimento pessoal e profissional.
 
-## Sprints 
-
-1. [Sprint 1](Sprint 1/README.md)
-
-
 
 ## Aprendizados durante o PB :computer:
 
@@ -39,3 +34,6 @@ Estou aprendendo Markdown para criar documentação clara e bem formatada para m
 ### 3-Versionamento no Git
 Aprendi e consegui me aprofundar no Git para melhorar meu controle de versão de projetos. Estou praticando a inicialização de repositórios, criação e gestão de branches, resolução de conflitos e colaboração em projetos colaborativos utilizando forks e pull requests.
 
+## Sprints 
+
+1. ![Sprint 1](Sprint1/README.md)
