@@ -2,14 +2,15 @@
 # Passo a passo para a reexecução do desafio 
 
 1.Passo:  
-* Primeiramente, vamos criar a pasta ecommerce e, em seguida mover o arquivo dados_de_vendas.csv para a pasta ecommerce.
-        ~~~mkdir ecommerce
-        mv dados_de_vendas.csv ecommerce/~~~
-
+> Primeiramente, vamos criar a pasta ecommerce e, em seguida mover o arquivo dados_de_vendas.csv para a pasta ecommerce.
+```
+        mkdir ecommerce
+        mv dados_de_vendas.csv ecommerce/
+```
 
 2. Passo:
-* Após isso, vamos criar o script **processamendo_de_vendas.sh** 
-* Para realizar todas as tarefas desejadas, utiliza-se este script:
+> Após isso, vamos criar o script **processamendo_de_vendas.sh** 
+> Para realizar todas as tarefas desejadas, utiliza-se este script:
         
         `#Entra na pasta ecommerce, cria o diretório vendas e copia o arquivo dados_de_vendas.csv para dentro dele
         cd ~/ecommerce
@@ -48,11 +49,11 @@
         echo "Processamento de vendas concluído!"`
     
     3. Passo:
-    * Após criar o script, conceda permissões de execução com 
+    > Após criar o script, conceda permissões de execução com 
     `chmod +x processamento_de_vendas.sh`
     
     4. Passo:
-    * Em seguida, para agendar a execução do script, você pode editar as tarefas cron usando o comando `crontab -e` e adicionar a seguinte linha para executar o script todos os dias de segunda a quinta às 15:27:
+    > Em seguida, para agendar a execução do script, você pode editar as tarefas cron usando o comando `crontab -e` e adicionar a seguinte linha para executar o script todos os dias de segunda a quinta às 15:27:
     `27 15 * * 1-4 /caminho/para/o/processamento_de_vendas.sh`
  
 
