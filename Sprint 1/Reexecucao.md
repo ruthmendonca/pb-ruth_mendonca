@@ -2,7 +2,7 @@
 # Passo a passo para a reexecução do desafio 
 
 1.Passo:  
-> Primeiramente, vamos criar a pasta ecommerce e, em seguida mover o arquivo dados_de_vendas.csv para a pasta ecommerce.
+> Primeiramente, vamos criar a pasta ecommerce e, em seguida mover o arquivo **dados_de_vendas.csv** para a pasta **ecommerce**.
 ```
         mkdir ecommerce
         mv dados_de_vendas.csv ecommerce/
@@ -11,9 +11,8 @@
 2. Passo:
 > Após isso, vamos criar o script **processamendo_de_vendas.sh** 
 > Para realizar todas as tarefas desejadas, utiliza-se este script:
-
-    ```    
-        #Entra na pasta ecommerce, cria o diretório vendas e copia o arquivo dados_de_vendas.csv para dentro dele
+   
+        "#Entra na pasta ecommerce, cria o diretório vendas e copia o arquivo dados_de_vendas.csv para dentro dele
         cd ~/ecommerce
         mkdir -p vendas
         cp dados_de_vendas.csv vendas/
@@ -45,10 +44,7 @@
 
         #Apaga os arquivos originais do diretório vendas e backup
         rm vendas/dados_de_vendas.csv
-        rm vendas/backup/backup-dados-"$data_atual".csv
-
-        echo "Processamento de vendas concluído!"
- ```       
+        rm vendas/backup/backup-dados-"$data_atual".csv"     
     
     3. Passo:
     > Após criar o script, conceda permissões de execução com 
