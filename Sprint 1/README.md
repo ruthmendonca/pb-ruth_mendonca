@@ -37,6 +37,6 @@ Ao executar o código do exercício ... observei que ... conforme podemos ver na
 
 
 - Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+![Curso ABC](certificados/certificado1.png)
 
 
