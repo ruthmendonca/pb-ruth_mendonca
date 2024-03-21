@@ -21,7 +21,7 @@ Sou uma pessoa naturalmente espontânea e alegre, buscando sempre encarar os des
 
 ## Sprints 
 
-1. [Sprint 1](Sprint1/README.md)
+1. [Sprint 1](Sprint 1/README.md)
 
 
 
