@@ -4,7 +4,7 @@
 1.Passo:  
 * Primeiramente, vamos criar a pasta ecommerce e, em seguida mover o arquivo dados_de_vendas.csv para a pasta ecommerce.
         ```mkdir ecommerce`
-        ```mv dados_de_vendas.csv ecommerce/```
+        ```mv dados_de_vendas.csv ecommerce/`
 
 
 # Exercícios
