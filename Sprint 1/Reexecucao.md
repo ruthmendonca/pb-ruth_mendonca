@@ -85,7 +85,7 @@ done
 
 ```
 
-5. Passo:
+6. Passo:
 > Agora conceda permissões de execução: 
 
 ```
@@ -93,3 +93,6 @@ done
 chmod +x consolidador_de_processamento_de_vendas.sh
 
 ```
+
+7. Passo:
+   Por fim, quando você tiver pelo menos três relatórios gerados pelo script **processamento_de_vendas.sh**, execute **manualmente** o script **consolidador_de_processamento_de_vendas.sh**.
