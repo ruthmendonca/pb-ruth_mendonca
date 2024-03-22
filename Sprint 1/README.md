@@ -14,7 +14,7 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 
 1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+[Script Processamento_de_vendas.sh](Sprint 1\exercicios\ecommerce\processamento_de_vendas.sh)
 
 
 2. ...
@@ -37,6 +37,12 @@ Ao executar o código do exercício ... observei que ... conforme podemos ver na
 
 
 - Certificado do Curso ABC
-![Curso ABC](certificados/certificado1.png)
+![Curso ABC](certificados/certificado1.jpg)
+
+- Certificado do Curso Linux para Desenvolvedores
+![Linux para Desenvolvedores](certificados/certificado2.jpg)
+
+
+
 
 
