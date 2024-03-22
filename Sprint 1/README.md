@@ -5,13 +5,13 @@
 [Script Processamento_de_vendas.sh](exercicios/ecommerce/consolidador_de_processamento_de_vendas.sh)
 
 2. ...
-[Script Consolidador_de_processamento_de_vendas.sh](exercicios\ecommerce\consolidador_de_processamento_de_vendas.sh)
+[Script Consolidador_de_processamento_de_vendas.sh](exercicios/ecommerce/consolidador_de_processamento_de_vendas.sh)
 
 3. ...
-[Diretório Vendas](exercicios\ecommerce\vendas)
+[Diretório Vendas](exercicios/ecommerce/vendas)
 
 4. ...
-[Relatório Final](exercicios\ecommerce\relatorio_final.txt)
+[Relatório Final](exercicios/ecommerce/relatorio_final.txt)
 
 
 
