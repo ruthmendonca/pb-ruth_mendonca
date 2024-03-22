@@ -2,7 +2,7 @@
 
 
 1. ...
-[Script Processamento_de_vendas.sh](Sprint 1/exercicios/ecommerce/consolidador_de_processamento_de_vendas.sh)
+[Script Processamento_de_vendas.sh](exercicios/ecommerce/consolidador_de_processamento_de_vendas.sh)
 
 2. ...
 [Script Consolidador_de_processamento_de_vendas.sh](exercicios\ecommerce\consolidador_de_processamento_de_vendas.sh)
