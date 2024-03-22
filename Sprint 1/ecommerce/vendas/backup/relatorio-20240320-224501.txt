@@ -1,0 +1,13 @@
+Data do sistema operacional: 2024/03/20 22:45
+Data do 1 registro de venda: 2
+Data do último registro de venda: 88
+Quantidade total de itens diferentes vendidos: 30
+2,guitarra elétrica fender,3,2999.00,20/02/2023
+53,amplificador de guitarra,4,799.00,21/02/2023
+54,pedaleira preta,5,499.00,22/02/2023
+55,cabo para instrumento ninja,10,59.00,23/02/2023
+56,palheta dunlop,20,1.00,24/02/2023
+57,afinador digital,6,49.00,25/02/2023
+58,capotraste,8,99.00,26/02/2023
+59,suporte para guitarra,7,29.00,27/02/2023
+60,correia para guitarra,9,19.00,28/02/2023
